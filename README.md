@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuk3l
-- 👀 I’m interested in CSS y JS
+- 👀 I’m interested in <HTML/CSS}JS
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
